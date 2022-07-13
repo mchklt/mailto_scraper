@@ -5,7 +5,6 @@ mailto_scraper its a simple script for scrape mails from html pages.
 M120083897@taalim.ma
 J1330054823@taalim.ma
 F139300396@taalim.ma
-3ichazaoi2018@gmail.com
 H130010946@taalim.ma
 abdelmoula.aniz@taalim.ma
 BRAHIM.OUTAIK@TAALIM.MA
