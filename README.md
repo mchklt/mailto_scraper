@@ -1,6 +1,5 @@
 # mailto_scraper
-mailto_scraper its a simple script for scrape mails from html pages.
-**i use this script for scrap mails from men.gov.ma feedback page**
+#**i use this script for scrap mails from men.gov.ma feedback page**
 ```E142032958@taalim.ma
 M120083897@taalim.ma
 J1330054823@taalim.ma
