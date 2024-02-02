@@ -1,6 +1,6 @@
 # mailto_scraper
 >**i use this script for scrap mails from `redacted.com` feedback page**
-```johndoe123@example.com
+```python johndoe123@example.com
 emily.smith456@gmail.com
 randomuser789@hotmail.com
 testuser321@yahoo.com
