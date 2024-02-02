@@ -13,5 +13,3 @@ socialmediauser456@socialnetwork.com
 businessperson789@businessdomain.org
 etc ...
 ```
-
-**you can see how i use it from this [video](https://www.facebook.com/mchklt.m001x/videos/315419157045853)**
